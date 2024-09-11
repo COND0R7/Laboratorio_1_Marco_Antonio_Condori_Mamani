@@ -18,5 +18,26 @@
 6. **¿Qué hace el comando git push?**
 - Respuesta:
 
-7. **¿Qué diferencia hay entre git clone y git pull?**
+7. **¿Qué diferencia hay entre un repositorio público y uno privado en GitHub?**
+- Respuesta:
+
+8. **¿Qué hace el comando git clone?**
+- Respuesta:
+
+9. **¿Como se determina el tipo de dato de una variable en JavaScript y como se le conoce a este proceso?**
+- Respuesta:
+
+10. **¿Qué es un algoritmo?**
+- Respuesta:
+
+11. **¿Qué es una variable?**
+- Respuesta:
+
+12. **¿Qué es una función?**
+- Respuesta:
+
+13. **¿Qué es una condición en JavaScript?**
+- Respuesta:
+
+14. **¿Qué es un ciclo en JavaScript?**
 - Respuesta:
